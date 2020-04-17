@@ -1,0 +1,5 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch2/AverageTestScores/bin/Debug/AverageTestScores.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch2/AverageTestScores/bin/Debug/AverageTestScores.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch2/AverageTestScores/obj/anycpu/Debug/AverageTestScores.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch2/AverageTestScores/obj/anycpu/Debug/AverageTestScores.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch2/AverageTestScores/obj/anycpu/Debug/AverageTestScores.pdb
